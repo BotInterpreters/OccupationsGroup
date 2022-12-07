@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "occupationName": "Staff fficer (AFP)",
+        "occupationGroup": "Special Occupation"
+    },
+    {
+        "id": 0,
+        "occupationName": "Staff Officer (AFP)",
+        "occupationGroup": "Special Occupation"       
+    },
+    {
+        "id": 0,
+        "occupationName": "Combat Soldiers (AFP)",
+        "occupationGroup": "Special Occupation"
+    },
+    {
+        "id": 0,
+        "occupationName": "Service and Related Workers (AFP)",
+        "occupationGroup": "Special Occupation"
+    },
+    {
+        "id": 1,
+        "name": "Government Administrator",
+        "occupationGroup": "Officials Government and Special Interest"
+    },
+    {
+        "id": 1,
+        "name": "Assistant Administrator (GOV)",
+        "occupationGroup": "Officials Government and Special Interest"
+    }
+]
